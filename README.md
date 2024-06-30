@@ -7,6 +7,3 @@ This project consists of two parts.
 
 You will find a README.md file in each of the above directories with instructions on getting them set up and deployed.
 
-## License
-
-This project is distributed under the GNU General Public License, see [./LICENSE](./LICENSE).
