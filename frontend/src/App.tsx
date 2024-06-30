@@ -2,7 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import './App.css'; 
 
-const functionUrl = 'https://vc275x3meej7atwil5juokwezm0nmecs.lambda-url.eu-west-3.on.aws/';
+const functionUrl = 'https://xxxxxxxxxxxxxxxx.lambda-url.eu-west-3.on.aws/';
 
 
 type Message = {
